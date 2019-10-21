@@ -1,9 +1,3 @@
-/* 
-Equipe: 
-    Lucas da Silva Lima - 1515080170
-    André Ricardo MArques Rogério - 1615080011
-*/
-/*Compilação gcc <nomeDoArquivo.c> -o <executavel> ; ./executavel */
 #include<stdio.h>   // biblioteca padrão do C
 #include<stdlib.h>  // biblioteca padrão do C
 #include<sys/shm.h>     // biblioteca para criação da memória compartilhada
