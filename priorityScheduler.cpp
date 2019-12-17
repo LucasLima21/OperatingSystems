@@ -1,9 +1,3 @@
-/* 
-Equipe: 
-    Lucas da Silva Lima - 1515080170
-    André Ricardo MArques Rogério - 1615080011
-*/
-
 /*
 Compilação g++ <nomeDoArquivo.cpp> -o <executavel> ; ./executavel 
 */
