@@ -1,3 +1,11 @@
+    
+/*
+UEA - Universidade do Estado do Amazonas
+EST - Escola Superior de Tecnologia
+Sistemas Operacionais
+E-mail: ldsllm.eng@uea.edu.br
+*/
+
 #include<stdio.h>   // biblioteca padrão do C
 #include<stdlib.h>  // biblioteca padrão do C
 #include<sys/shm.h>     // biblioteca para criação da memória compartilhada
